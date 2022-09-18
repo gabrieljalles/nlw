@@ -97,6 +97,7 @@ ul {
 }
 
 .game-list img{
+    border-radius: 7px;
     width: 100px;
 }
 .streamer-list img{
